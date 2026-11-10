@@ -100,7 +100,9 @@ Regularly re-install or update Ollama from the official website ([ollama.com](ht
 - [x] All local models verified against official library manifests.
 - [x] Sensitive cloud API keys rotated if port was previously exposed on public Wi-Fi.
 
-### Sources:
+---
+
+## 🔗 Sources:
 
 <a href="https://www.youtube.com/watch?v=teybjHUZ-gk" target="_blank">
   <img src="https://img.youtube.com/vi/teybjHUZ-gk/0.jpg" alt="Your Local AI Is Actually Not Safe">

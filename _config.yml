@@ -1,4 +1,5 @@
-title: Mi Blog de Notas y Recursos
+title: Mi Cuaderno de Notas y Recursos
 theme: jekyll-theme-primer
+markdown: kramdown
 kramdown:
-  use_page_blocks: true
+  input: GFM

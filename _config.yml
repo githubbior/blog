@@ -1,0 +1,4 @@
+title: Mi Blog de Notas y Recursos
+theme: jekyll-theme-primer
+kramdown:
+  use_page_blocks: true

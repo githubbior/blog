@@ -102,4 +102,6 @@ Regularly re-install or update Ollama from the official website ([ollama.com](ht
 
 ### Sources:
 
-- <a href="https://youtu.be/teybjHUZ-gk?si=PEjycjrxwiGjvQYS" target="_blank">Your Local AI Is Actually Not Safe</a>
+- ### Sources:
+
+- [Your Local AI Is Actually Not Safe](https://youtu.be/teybjHUZ-gk?si=PEjycjrxwiGjvQYS)
